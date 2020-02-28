@@ -8,7 +8,6 @@ Function:
 When you run it:
 	It will auto register system hooks.
 	It will auto choose one screen coordinate.
-		The first pixel is near the most central pixel on a computer screen.(in fact x-2,y-2)
 	
 	press ctrl+t to start fish.
 	press ctrl+y to set the pixel.
